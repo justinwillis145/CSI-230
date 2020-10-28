@@ -2,16 +2,19 @@
 Notes for the Project
 
 Websites I used for The project:
-Checking if a Group Exists:
-https://bytefreaks.net/gnulinux/bash/linux-check-if-a-user-or-a-group-exists#:~:text=Linux%3A%20Check%20if%20a%20User%20or%20a%20Group%20Exists%202&text=A%20very%20simple%20way%20to,the%20last%20command%20that%20executed. 
-
-Forcing User to change his/her Passwrod:
-https://www.tecmint.com/force-user-to-change-password-next-login-in-linux/  
-
-Unfortunately I still can not figure out how to get them to force change their password after login.
 
 Sending them an email with Temporary Password:
 https://meet.google.com/linkredirect?authuser=0&dest=https%3A%2F%2Fstackoverflow.com%2Fquestions%2F60720632%2Fformatting-email-body-in-s-nail-command-bash
+This was the first part of the code I worked on. Thank you Devin. This really solve my issue with the email.
+
+Checking if a Group Exists:
+https://bytefreaks.net/gnulinux/bash/linux-check-if-a-user-or-a-group-exists#:~:text=Linux%3A%20Check%20if%20a%20User%20or%20a%20Group%20Exists%202&text=A%20very%20simple%20way%20to,the%20last%20command%20that%20executed. 
+After I was able to get the emails out, I worked on getting the group and user worked out. With this link i was able to not only test if a user or group existed, but was able to compare so if either didn't exist it would create it.
+
+Forcing User to change his/her Password:
+https://www.tecmint.com/force-user-to-change-password-next-login-in-linux/  
+With this link it helped me to solve the problems of getting a password to expire. Resetting was the easy part.
 
 Helping with coding:
 Huge shoutouts to Harris Slesar for helping me for the coding portion!!!! 
+He provided me with one of these links and helped debug any errors I was getting and eventually pushed me to the right solution.
