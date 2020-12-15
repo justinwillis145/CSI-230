@@ -1,4 +1,6 @@
 #!/bin/bash
+#author Justin Willis
+#comment converter.sh
  
 usage()
 {

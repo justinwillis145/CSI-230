@@ -1,5 +1,7 @@
 #!/bin/bash
 #comments go here
+#hostlookup.sh
+#author Justin Willis
 
 usage()
 {
